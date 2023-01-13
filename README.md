@@ -1,2 +1,2 @@
 # Bayesian statistics
-Bayesian stat course @ UU
+Bayesian stat course 2022 @UU
